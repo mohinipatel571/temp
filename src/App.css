@@ -1,0 +1,34 @@
+input{
+  padding: 10px;
+  border: 1px solid black;
+  border-radius: 5px;
+  font-size: 20px;
+}
+.login-form,.signup-form{
+  border: 1px solid black;
+  width: 50%;
+  margin: auto;
+  margin-top: 200px;
+
+  background-color: burlywood;
+}
+
+.login-form div,.signup-form div{
+  margin: 20px;
+  
+}
+.welcome-active{
+  font-weight: 600;
+  border-bottom: 2px solid blue;
+  color: blue !important;
+}
+
+.ReduxApp{
+ 
+    font-family: sans-serif;
+    text-align: center;
+  }
+
+.ReduxApp button {
+  border-radius: 0% !important;
+}
